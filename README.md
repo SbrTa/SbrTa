@@ -3,7 +3,6 @@
   <p align="center">Hi, I'm Subrata! 👋</p>
   <p align="center">🔥 Software Developer grinding hard to make something cool</p>
   <p align="center">✨ Expertise: Java, Spring, PostgreSQL, Data Structure, Algorithm</p>
-  <p align="center">📧 subrataxon@gmail.com</p>
   <p align="center">🧾 https://sbrta.github.io</p>
   
   <h4 align="center">Connect with me:</h4>
