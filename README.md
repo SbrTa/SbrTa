@@ -3,6 +3,16 @@
   <p align="center">Hi, I'm Subrata! 👋</p>
   <p align="center">🔥 Software Developer grinding hard to make something cool</p>
   <p align="center">✨ Expertise: Java, Spring, PostgreSQL, Data Structure, Algorithm</p>
+
+<!--   
+<p align="center"> I have completed my graduation from MBSTU. During my university days, I took part in prestigious coding competitions like NCPC & ICPC.</p> 
+
+<p align="center"> 🚀 Currently, I'm working as a Senior Software Engineer at Brain Station 23. Here, I've been fortunate to dive into various domains — fintech, healthcare, and ride sharing. My main focus has been on Java and the Spring framework.</p>
+
+<p align="center"> 💻 I find joy in crafting solutions that make a real impact. Excited about the opportunity to contribute my skills to your team and take on new challenges!  </p>
+-->
+
+  
   <p align="center">🧾 https://sbrta.github.io</p>
   
   <p align="center">
